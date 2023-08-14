@@ -12,8 +12,8 @@ import tweepy as tw
 # In[9]:
 
 
-consumer_api_key = '1536368328750809088-ekmfDXge1reU3A3ou9bX0zYOOncPVA'
-consumer_api_secret = 'DMqjxsA6aAyP6uVFIPxFaetBz0rghbFS8WROTUOVk6NTp'
+consumer_api_key = ####################################
+consumer_api_secret = ####################################
 
 
 # In[13]:
